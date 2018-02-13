@@ -1,2 +1,4 @@
 # hello-world
-new repository
+Hi Humans
+
+I'm Deepak Kataria... B.E. IT 1st yr. 
